@@ -1,0 +1,45 @@
+html,body,header, #intro{
+    height: 100%;
+}
+#intro{
+    background: url(../img/agriculture-alternative-alternative-energy-2310064.jpg) no-repeat center center fixed;
+    -webkit-backdrop-size: cover;
+    background-size: cover;
+}
+.top-nav-collapse{
+    background-color:#5CCCCC;
+}
+
+@media (max-width: 768px) {
+    .navbar:not(.top-nav-collapse){
+        background: #5CCCCC;
+    }
+}
+
+
+
+
+h4{
+    font-size: 30px;
+}
+p{
+    font-size: 18px;
+}
+#card1{
+    margin-top: 100px;
+}
+#photo1{
+    box-shadow: 0 10px 20px rgba(0,0,0,.25);
+}
+#bt2{
+    margin-top: 100px;
+    color: black;
+    font-size: 13px;
+}
+a{
+    color: white;
+}
+main{
+    margin-top: 100px;
+    pa
+}
